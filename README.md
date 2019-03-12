@@ -1,2 +1,2 @@
 # Story2 
-Just practice qit!
+Just to practice git!
